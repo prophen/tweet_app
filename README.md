@@ -1,24 +1,6 @@
-# README
+# Tweet app lesson from progate.com
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![home page](public/home.png)
+![about page](public/about.png)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project and lesson was started on [Day 5](https://github.com/prophen/100-days-of-code/blob/master/Day-5.md) of my 100 Days of Code challenge.
